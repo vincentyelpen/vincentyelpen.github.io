@@ -19,11 +19,17 @@ I have a strong interest in data analysis and decision support systems and am pr
 
 Data analysis
 ------
-The main 
+In the field of logistics and supply chain data analysis, I possess solid professional knowledge and extensive practical experience. I am proficient in data collection, cleaning, analysis, and visualization, and I use data analysis tools (such as Python, SQL, Tableau, etc.) to optimize supply chain processes and improve operational efficiency. I am skilled at transforming complex data into actionable insights to support business decisions, reduce costs, and enhance customer satisfaction. In supply chain management, I am particularly adept at analysis related to demand forecasting, inventory optimization, and transportation network design, enabling me to accurately identify potential operational bottlenecks and provide practical improvement suggestions.
 
-decision support systems
+In addition, I have excellent communication skills, enabling me to collaborate with cross-functional teams and effectively convey data-driven analysis results to relevant stakeholders, facilitating the successful implementation of projects. I am dedicated to empowering the supply chain through data, creating greater value for the business.
+
+Decision support systems
 ------
-For site content, 
+In the field of Decision Support Systems (DSS) for logistics and supply chain management, I possess deep expertise and practical experience. I specialize in designing and developing data-driven DSS to help companies optimize their supply chain management and operational processes. By integrating advanced algorithms, simulation models, and optimization techniques, I am able to build efficient DSS that enhance decision-making efficiency in areas such as inventory management, transportation optimization, and demand forecasting.
+
+I am proficient in using various technical tools (such as SQL, Python, R, and specialized DSS software) to combine complex data analysis with business needs, providing customized solutions. My systems are capable of handling large volumes of real-time data and can assist companies in anticipating potential challenges and opportunities through predictive analytics and scenario simulations, enabling more forward-looking strategic decisions.
+
+Additionally, I have excellent cross-functional communication skills, allowing me to work closely with both technical and business teams to ensure that the development and implementation of systems align with actual business needs and create tangible value for the company. I am committed to leveraging DSS applications to provide strong decision-making support for a company's logistics and supply chain management, driving sustained competitive advantage.
 
 **In future**
 
